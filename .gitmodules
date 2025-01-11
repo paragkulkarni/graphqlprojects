@@ -1,3 +1,6 @@
 [submodule "petgraphqlnodejs"]
 	path = petgraphqlnodejs
 	url = https://github.com/paragkulkarni/petgraphqlnodejs.git
+[submodule "graph-qlnestproject"]
+	path = graph-qlnestproject
+	url = https://github.com/paragkulkarni/graph-qlnestproject.git
